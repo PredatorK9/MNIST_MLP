@@ -1,2 +1,2 @@
 # MNIST_MLP
-A simple notebook to demonstrate the operations of an MLP on MNIST dataset
+A simple notebook to demonstrate an MLP on MNIST dataset
